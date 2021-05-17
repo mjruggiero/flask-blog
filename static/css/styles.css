@@ -1,5 +1,5 @@
 .container {
-    background: #669988;
+    background: #f4f4f4;
     margin: 2em auto;
     padding: 0.8em;
     width: 30em;
@@ -41,16 +41,6 @@ h2 {
 
 .post {
     border-radius: 20px;
-    background: gray;
+    background: #ccc;
     padding: 20px;
-    //width: 200px;
-    //height: 150px;
-}
-
-.button {
-    border-radius: 5px;
-    background: royalblue;
-    padding: 5px;
-    //width: 200px;
-    //height: 150px;
 }
